@@ -7,13 +7,13 @@ DS: Used ML, DL, or AI to make decisions. <br>
 
 # Types of Machine Learning
 ## Supervised Machine Learning
-A type of machine learning where the model learns from labeled data, using input-output pairs to make predictions or classify new data.
-### Regression: Predicts countinous outcomes
-### Classification: Predicts discrete outcomes
+A type of machine learning where the model learns from labeled data, using input-output pairs to make predictions or classify new data. <br>
+**Regression**: Predicts countinous outcomes <br>
+**Classification**: Predicts discrete outcomes
 ## Unsupervised Machine Learning
-A type of machine learning where the model learns patterns and structures from unlabeled data without predefined outputs.
-### PCA: Reduces dimentionality while retaining key information
-### Clustering: Groups similar data points
+A type of machine learning where the model learns patterns and structures from unlabeled data without predefined outputs. <br>
+**PCA**: Reduces dimentionality while retaining key information <br>
+**Clustering**: Groups similar data points
 ## Reinforcement Learning
 Agents learn to make decisions by interacting with the environment to maximize cumulative rewards.  
 
