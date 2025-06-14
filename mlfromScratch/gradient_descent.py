@@ -44,4 +44,4 @@ if __name__ == '__main__':
 
     b, m = gradient_descent(x, y)
 
-    print(f"Final Results: m={round(m, 0)}, b={round(b, 0)}")
+    print(f"Final Results: m={m}, b={b}")
